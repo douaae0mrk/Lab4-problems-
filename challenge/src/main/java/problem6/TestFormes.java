@@ -1,6 +1,6 @@
 package problem6;
 
-public class Test {
+public class TestFormes {
     public static void main(String[] argv) {
         Forme[] figures = new Forme[3];
         figures[0] = new Square(2);
